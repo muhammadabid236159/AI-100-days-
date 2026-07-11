@@ -1,0 +1,68 @@
+{
+    "students": [
+        {
+            "age": 20,
+            "course": "Python",
+            "id": 1,
+            "marks": 89,
+            "name": "Ali Khan",
+            "passed": true
+        },
+        {
+            "age": 22,
+            "course": "JavaScript",
+            "id": 2,
+            "marks": 75,
+            "name": "Ahmed Raza",
+            "passed": true
+        },
+        {
+            "age": 21,
+            "course": "Data Science",
+            "id": 3,
+            "marks": 95,
+            "name": "Fatima Noor",
+            "passed": true
+        },
+        {
+            "age": 19,
+            "course": "Web Development",
+            "id": 4,
+            "marks": 48,
+            "name": "Sara Ali",
+            "passed": false
+        },
+        {
+            "age": 23,
+            "course": "AI",
+            "id": 5,
+            "marks": 67,
+            "name": "Usman Khan",
+            "passed": true
+        },
+        {
+            "age": 20,
+            "course": "Machine Learning",
+            "id": 6,
+            "marks": 91,
+            "name": "Ayesha",
+            "passed": true
+        },
+        {
+            "id": 6,
+            "name": "Ayesha",
+            "age": 20,
+            "course": "Machine Learning",
+            "marks": 91,
+            "passed": true
+        },
+        {
+            "id": 6,
+            "name": "Ayesha",
+            "age": 20,
+            "course": "Machine Learning",
+            "marks": 91,
+            "passed": true
+        }
+    ]
+}

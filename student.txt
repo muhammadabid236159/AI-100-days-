@@ -1,0 +1,22 @@
+
+Name: Usman Ali
+Roll No: 104
+Class: Python Programming
+Age: 22
+City: Swat
+Marks: 90
+
+Name: Usman Ali
+Roll No: 104
+Marks: 90
+
+Name: Usman Ali
+Roll No: 104
+Marks: 90
+
+Name abid  Ali
+Roll No: 105
+Marks: 90
+
+Name: abbas Ali
+Roll No: 104
