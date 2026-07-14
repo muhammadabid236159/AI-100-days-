@@ -1,0 +1,102 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "  Rice 5kg ",
+        "category": "grocery",
+        "price": "1850",
+        "quantity": "20",
+        "supplier": "Al Madina Traders ",
+        "expiry_date": "2027/01/15",
+        "status": "Available"
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Sugar 1kg",
+        "category": " Grocery",
+        "price": "170.50",
+        "quantity": "50",
+        "supplier": "Noor Foods",
+        "expiry_date": "15-12-2026",
+        "status": "available"
+    },
+    {
+        "product_id": "P003",
+        "product_name": "Milk 1L",
+        "category": "DAIRY",
+        "price": "",
+        "quantity": "35",
+        "supplier": "Haleeb",
+        "expiry_date": "2026-08-20",
+        "status": "Available"
+    },
+    {
+        "product_id": "P004",
+        "product_name": "Cooking Oil 5L",
+        "category": "grocery",
+        "price": "2950",
+        "quantity": "",
+        "supplier": "Dalda",
+        "expiry_date": "",
+        "status": "Out Of Stock"
+    },
+    {
+        "product_id": "P005",
+        "product_name": "Eggs (Dozen)",
+        "category": "dairy",
+        "price": "340",
+        "quantity": "15",
+        "supplier": "Farm Fresh",
+        "expiry_date": null,
+        "status": "AVAILABLE"
+    },
+    {
+        "product_id": "P006",
+        "product_name": "Shampoo",
+        "category": "Personal Care",
+        "price": "650",
+        "quantity": "12",
+        "supplier": "Unilever ",
+        "expiry_date": "2028-05-01",
+        "status": "available"
+    },
+    {
+        "product_id": "P007",
+        "product_name": "Soap",
+        "category": "personal care",
+        "price": "120",
+        "quantity": "80",
+        "supplier": "Unilever",
+        "expiry_date": "2028/03/01",
+        "status": "available"
+    },
+    {
+        "product_id": "P008",
+        "product_name": "Rice 5kg",
+        "category": "Grocery",
+        "price": "1850",
+        "quantity": "20",
+        "supplier": "Al Madina Traders",
+        "expiry_date": "2027-01-15",
+        "status": "available"
+    },
+    {
+        "product_id": "P009",
+        "product_name": "Biscuits",
+        "category": "Snacks",
+        "price": "abc",
+        "quantity": "40",
+        "supplier": "LU",
+        "expiry_date": "2026-10-10",
+        "status": "Available"
+    },
+    {
+        "product_id": "P010",
+        "product_name": "",
+        "category": "Beverages",
+        "price": "180",
+        "quantity": null,
+        "supplier": "",
+        "expiry_date": "10/11/2026",
+        "status": "available"
+    }
+]
