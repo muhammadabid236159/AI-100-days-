@@ -1,7 +1,7 @@
 # 🤖 100 Days of AI Challenge
 
-[![Progress](https://img.shields.io/badge/Progress-24%2F100%20Days-00C853?style=for-the-badge&logo=target)](PROGRESS.md)
-[![Working Notebooks](https://img.shields.io/badge/Working%20Notebooks-18-blue?style=for-the-badge&logo=jupyter)](PROGRESS.md)
+[![Progress](https://img.shields.io/badge/Progress-25%2F100%20Days-00C853?style=for-the-badge&logo=target)](PROGRESS.md)
+[![Working Notebooks](https://img.shields.io/badge/Working%20Notebooks-19-blue?style=for-the-badge&logo=jupyter)](PROGRESS.md)
 [![Python Version](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -12,11 +12,11 @@ A structured, intensive 100-day journey mastering **Artificial Intelligence, Mac
 
 ### 📌 Current Status Line
 - **Challenge Started:** July 17, 2026
-- **Current Milestone:** Day 24
-- **Days Completed:** 24 / 100
-- **Working Notebooks:** 18
-- **Last Updated:** September 10, 2026
-- **Current Focus:** Web APIs, REST Data Ingestion, Gemini 2.0 Integration & Transitioning into Machine Learning
+- **Current Milestone:** Day 25
+- **Days Completed:** 25 / 100
+- **Working Notebooks:** 19
+- **Last Updated:** September 22, 2026
+- **Current Focus:** Data Visualization with Matplotlib & Seaborn — charts, comparisons, subplots
 
 ---
 
@@ -105,11 +105,17 @@ A structured, intensive 100-day journey mastering **Artificial Intelligence, Mac
 | :---: | :--- | :--- | :---: | :--- |
 | **24** | REST APIs & Gemini Integration | `08_Web_Scraping_APIs/day24_web_apis_requests.ipynb` | ✅ Completed | HTTP requests, `pd.json_normalize()`, **Google Gemini 2.0 API** |
 
-### Upcoming Roadmap (Days 25–100) ⏳ Coming Soon
+### Phase 7: Data Visualization (Day 25)
+
+| Day | Topic / Module | Notebook / Project | Status | Highlights |
+| :---: | :--- | :--- | :---: | :--- |
+| **25** | Data Visualization with Matplotlib & Seaborn | `09_Data_Visualization/day25_data_visualization.ipynb` | ✅ Completed | Bar, Line, Histogram, Pie, Scatter, Box plots, Subplots, Oscar vs Non-Oscar dataset, SE vs CS comparison |
+
+### Upcoming Roadmap (Days 26–100) ⏳ Coming Soon
 
 | Days | Phase / Milestone | Planned Content | Status |
 | :---: | :--- | :--- | :---: |
-| **25–40** | **Machine Learning: Supervised** | Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost | ⏳ Coming Soon |
+| **26–40** | **Machine Learning: Supervised** | Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost | ⏳ Coming Soon |
 | **41–50** | **Machine Learning: Unsupervised** | K-Means Clustering, PCA, Hierarchical Clustering, Anomaly Detection | ⏳ Coming Soon |
 | **51–60** | **Model Evaluation & MLOps** | Cross-Validation, Hyperparameter Tuning, Metrics (ROC-AUC, F1), Pipelines | ⏳ Coming Soon |
 | **61–75** | **Deep Learning & Computer Vision** | Artificial Neural Networks (ANN), CNNs, Transfer Learning with PyTorch | ⏳ Coming Soon |
@@ -148,6 +154,8 @@ AI-100-days-/
 │   └── mysql_student_grading_system.ipynb        # Student marks, grades calculation, NumPy stats
 ├── 08_Web_Scraping_APIs/
 │   └── day24_web_apis_requests.ipynb             # REST APIs, requests lib, JSON normalize, Gemini API
+├── 09_Data_Visualization/
+│   └── day25_data_visualization.ipynb            # Bar, line, histogram, pie, scatter, box plots, SE vs CS, Oscar dataset
 ├── data/
 │   ├── clean_products.json
 │   ├── data.json
@@ -284,4 +292,4 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 ---
 
-*Last Updated: September 10, 2026 | Muhammad Abid | #100DaysOfAI*
+*Last Updated: September 22, 2026 | Muhammad Abid | #100DaysOfAI*
