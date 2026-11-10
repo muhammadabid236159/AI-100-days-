@@ -156,6 +156,13 @@ AI-100-days-/
 │   └── day24_web_apis_requests.ipynb             # REST APIs, requests lib, JSON normalize, Gemini API
 ├── 09_Data_Visualization/
 │   └── day25_data_visualization.ipynb            # Bar, line, histogram, pie, scatter, box plots, SE vs CS, Oscar dataset
+├── 10_Seaborn/
+│   └── day27_seaborn.ipynb                       # Seaborn advanced statistical visualization
+├── 11_Probability_Statistics/
+│   └── day28_probability_statistics.ipynb        # Probability, Bayes' theorem, distributions (Normal, Binomial, Uniform)
+├── 12_Linear_Algebra/
+│   ├── README.md                                 # Linear Algebra overview and ML roadmap
+│   └── day29_linear_algebra.ipynb                # Vectors, matrices, dot product, determinants, inverse
 ├── data/
 │   ├── clean_products.json
 │   ├── data.json
