@@ -50,5 +50,16 @@ Linear Algebra and Coordinate Geometry form the foundational backbone for Machin
 
 ---
 
+### 6️⃣ Cross Product (Vector Product) & 3D Visuals
+- **Concept:** Defined only in 3D space. The result of $\mathbf{u} \times \mathbf{v}$ is a **new 3D vector** that is strictly **perpendicular ($90^\circ$)** to both original vectors.
+- **Formulas:**
+  - **Magnitude / Parallelogram Area:** $\|\mathbf{u} \times \mathbf{v}\| = \|\mathbf{u}\| \|\mathbf{v}\| \sin(\theta)$
+  - **Determinant Rule:**
+    $$\mathbf{u} \times \mathbf{v} = \det \begin{bmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ u_1 & u_2 & u_3 \\ v_1 & v_2 & v_3 \end{bmatrix}$$
+  - **Anti-commutative:** $\mathbf{v} \times \mathbf{u} = -(\mathbf{u} \times \mathbf{v})$
+- **ML Use Case:** Surface normal computation in 3D Computer Vision, NeRFs, Point Clouds, and Robotics kinematics.
+
+---
+
 ## 💻 Notebook Implementation:
 - Run [`day29_linear_algebra.ipynb`](day29_linear_algebra.ipynb) for runnable Python code, formulas, and 2D Matplotlib visualizations.
