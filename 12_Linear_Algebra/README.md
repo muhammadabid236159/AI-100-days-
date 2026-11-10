@@ -41,5 +41,14 @@ Linear Algebra and Coordinate Geometry form the foundational backbone for Machin
 
 ---
 
+### 5️⃣ Vector Addition & Visualizations
+- **Concept:** Adding corresponding vector components ($\mathbf{u} + \mathbf{v}$).
+- **Geometric Methods:**
+  - **Head-to-Tail Rule (Triangle Law):** Tail of $\mathbf{v}$ placed at head of $\mathbf{u}$.
+  - **Parallelogram Law:** Vectors originating from origin, resultant as diagonal.
+- **ML Use Case:** Word embeddings (Word2Vec: $\vec{v}_{\text{King}} - \vec{v}_{\text{Man}} + \vec{v}_{\text{Woman}} \approx \vec{v}_{\text{Queen}}$), neural network layer activations ($W\mathbf{x} + \mathbf{b}$).
+
+---
+
 ## 💻 Notebook Implementation:
 - Run [`day29_linear_algebra.ipynb`](day29_linear_algebra.ipynb) for runnable Python code, formulas, and 2D Matplotlib visualizations.
