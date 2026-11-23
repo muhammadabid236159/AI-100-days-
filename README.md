@@ -163,6 +163,14 @@ AI-100-days-/
 ├── 12_Linear_Algebra/
 │   ├── README.md                                 # Linear Algebra overview and ML roadmap
 │   └── day29_linear_algebra.ipynb                # Vectors, matrices, dot product, determinants, inverse
+├── 13_Calculus/
+│   ├── README.md                                 # Calculus for Machine Learning overview
+│   └── day30_calculus.ipynb                      # Limits, derivatives, partial derivatives, gradient descent
+├── 14_Machine_Learning/
+│   ├── README.md                                 # ML Foundations & Linear Regression project
+│   ├── insurance.csv                             # Medical cost insurance dataset
+│   ├── day31_ml_introduction.ipynb               # Supervised, unsupervised, RL definitions
+│   └── day32_linear_regression.ipynb             # Linear Regression, Feature Engineering, Adjusted R2 (86.5%)
 ├── data/
 │   ├── clean_products.json
 │   ├── data.json
