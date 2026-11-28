@@ -40,6 +40,34 @@ Machine Learning AI ka sabse powerful branch hai jahan computers data se automat
 
 ---
 
+### Day 33: [`day33_feature_engineering.ipynb`](day33_feature_engineering.ipynb) — Feature Engineering Pipeline
+- 📌 **Dataset:** `insurance.csv` (same as Day 32)
+- 🧹 **Missing Values:** `SimpleImputer` (mean / median / most_frequent strategies) + before/after visualization
+- 🔡 **Categorical Encoding:**
+  - `LabelEncoder` — binary (smoker, sex)
+  - `pd.get_dummies` One-Hot Encoding — region (4 categories)
+- ⚖️ **Feature Scaling (3 Scalers compared):**
+  - `StandardScaler` → mean=0, std=1
+  - `MinMaxScaler` → 0 to 1 range
+  - `RobustScaler` → IQR-based (outlier resistant)
+- 📐 **Feature Transformation (skewness fix):**
+  - Log, Square Root, Box-Cox on `charges` column
+  - Skewness: 1.52 → ~0.07 after Box-Cox
+- ✨ **Feature Creation:**
+  - Interaction term: `bmi × smoker` (Day 32 key feature recap)
+  - Domain feature: `bmi_category` (Underweight / Normal / Overweight / Obese)
+  - `PolynomialFeatures` (degree=2)
+- 🎯 **Feature Selection:**
+  - Correlation Heatmap analysis
+  - `VarianceThreshold` — zero/near-zero variance features drop
+  - `SelectKBest` with `f_regression` — top features ranked
+- 📦 **Outlier Handling:**
+  - IQR method (Lower/Upper Fence)
+  - Z-score method (`|Z| > 3`)
+  - Boxplot before vs after comparison
+
+---
+
 ## 🛠️ Libraries Used:
 - `scikit-learn` — Model training, metrics, train/test split
 - `pandas` — Data manipulation & encoding
